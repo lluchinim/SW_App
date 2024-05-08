@@ -6,12 +6,10 @@
     <title>Document</title>
 </head>
 <body>
+    <!-- Comentario 1 del contedor -->
     <div class="cotainer">
         <div class="row">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, saepe.</p>
-        </div>
-        <div class="row">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, dicta?</p>
         </div>
     </div>
 </body>
