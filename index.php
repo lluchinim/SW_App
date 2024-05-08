@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <!-- Comentario 1 del contedor -->
+    <!-- Contenedor Principal -->
     <div class="cotainer">
         <div class="row">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, saepe.</p>
